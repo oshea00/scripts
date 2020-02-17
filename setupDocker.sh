@@ -1,3 +1,4 @@
+# debian 10 docker setup
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common gnupg2
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
